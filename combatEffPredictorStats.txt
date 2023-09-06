@@ -1,0 +1,6 @@
+Matches: 874
+Correct predictions: 679
+Incorrect predictions: 195
+Amount of draws: 71
+Fraction of incorrect predictions that are draws: 0.3641025641025641
+Success rate: 0.7768878718535469
